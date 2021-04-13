@@ -12,6 +12,9 @@
 
 [<img align="left" alt="Charan | Instagram" width="22px" src="https://robots.net/wp-content/uploads/2020/03/Photo-by-Tumisu-1-1-600x595.jpg" >Charan | Instagram</img>][instagram]
 <br />
+<br>
+<img align="left" alt="Charan | Discord" width="22px" src="https://variety.com/wp-content/uploads/2018/05/discord-logo.jpg" >Chara98#4077 | Discord</img>
+</br>
 
 ```py
   Chara98 = [
