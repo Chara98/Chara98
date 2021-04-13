@@ -25,7 +25,6 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0a%2FPython.svg%2F1200px-Python.svg.png&imgrefurl=https%3A%2F%2Fen.wikiversity.org%2Fwiki%2FPython&tbnid=XmmuGvoln--UuM&vet=12ahUKEwiyu-uQx_vvAhU7p0sFHZv6BEkQMygGegUIARDfAQ..i&docid=k36Oe0TGOvdiNM&w=1200&h=1200&q=python&hl=en&safe=active&ved=2ahUKEwiyu-uQx_vvAhU7p0sFHZv6BEkQMygGegUIARDfAQ" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
