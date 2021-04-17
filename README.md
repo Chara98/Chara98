@@ -19,12 +19,12 @@
 <br />
 
 ```py
-  Chara98 = [
+  Chara98 = {
   OS: [Ubuntu, WINDOWS],  
   code: [HTML, CSS, Python, Dart],
   Interest: [WebDev, Appdev],
   challenge: "Learn Everything New Every Day!"
-]
+}
 ```
 
 ### Languages and Tools:
