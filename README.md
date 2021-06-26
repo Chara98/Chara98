@@ -10,7 +10,7 @@
 
 <br>
 
-<img align="left" alt="Charan | Discord" width="22px" src="https://droplr.com/wp-content/uploads/2020/06/iconfinder_discord_2308078-512x400.png" >Chara98#4077 | [Discord]</img>
+<img align="left" alt="Charan | Discord" width="22px" src="https://droplr.com/wp-content/uploads/2020/06/iconfinder_discord_2308078-512x400.png" >Chara98#9898 | [Discord]</img>
 <br />
 
 ```py
